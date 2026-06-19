@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Anurag Singh Bhadauriya 👋
 
-<!--
-**Anurag-1308/Anurag-1308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Aspiring Data Analyst & Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Java
+- SQL
+- Git & GitHub
+- Pandas
+- NumPy
+
+## Currently Learning
+- Data Science
+- DSA
+- Power BI
+
+## Profiles
+- LinkedIn
+- LeetCode
+
+## Goals for 2026
+- Solve 300+ DSA Problems
+- Build Data Analytics Projects
+- Secure Internship
