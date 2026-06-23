@@ -76,7 +76,7 @@ I believe in learning by building — every project and every solved problem is 
 
 **Data & Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
 
 <br/><br/>
 
@@ -169,7 +169,7 @@ I believe in learning by building — every project and every solved problem is 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anurag-1308&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Anurag-1308&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
