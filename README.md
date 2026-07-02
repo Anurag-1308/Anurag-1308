@@ -74,12 +74,6 @@ I believe in learning by building — every project and every solved problem is 
 
 <br/><br/>
 
-### 🌐 Web
-
-<img src="https://skillicons.dev/icons?i=html&theme=dark" />
-
-<br/><br/>
-
 ### 🗄️ Data & Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
