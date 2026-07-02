@@ -180,7 +180,7 @@ I believe in learning by building — every project and every solved problem is 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anurag-1308&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Anurag-1308&no-frame=true&row=1" />
 
 </div>
 
