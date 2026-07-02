@@ -34,15 +34,15 @@
 ## 🧠 About Me
 
 ```yaml
-name: "Anurag Singh Bhadauriya"
-role: "B.Tech CSE Student"
-aspiring: "Data Analyst & Software Engineer"
-focus:
+Name: "Anurag Singh Bhadauriya"
+Role: "B.Tech CSE Student"
+Aspiring: "Data Analyst & Software Engineer"
+Focus:
   - Strengthening core programming and DSA fundamentals
   - Building hands-on data analytics projects
   - Exploring data science and business intelligence tools
   - Preparing for an internship in software/data roles
-philosophy: "Consistent learning today builds the engineer of tomorrow."
+Philosophy: "Consistent learning today builds the engineer of tomorrow."
 ```
 
 I'm a B.Tech Computer Science student passionate about **data analysis**, **software engineering**, and **problem solving**. I'm currently building a strong foundation in **data structures & algorithms**, **data science**, and **business intelligence tools** like Power BI, while actively working on real-world projects to sharpen my practical skills.
@@ -68,21 +68,39 @@ I believe in learning by building — every project and every solved problem is 
 
 <div align="center">
 
-**Languages**
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" />
 
 <br/><br/>
 
-**Data & Databases**
+### 🌐 Web
+
+<img src="https://skillicons.dev/icons?i=html&theme=dark" />
+
+<br/><br/>
+
+### 🗄️ Data & Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
 
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
 <br/><br/>
 
-**Tools & Platforms**
+### 📊 Data & BI
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,powerbi&theme=dark" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+<br/><br/>
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
@@ -98,7 +116,7 @@ I believe in learning by building — every project and every solved problem is 
 |:--|:--|
 | **Programming Languages** | Python, Java, SQL |
 | **Version Control** | Git & GitHub |
-| **Data Analysis Libraries** | Pandas, NumPy |
+| **Data Analysis Libraries** | Pandas, NumPy, Matplotlib, Seaborn|
 | **Currently Learning** | Data Science, DSA, Power BI |
 
 </div>
