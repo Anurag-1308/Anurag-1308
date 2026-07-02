@@ -192,12 +192,9 @@ I believe in learning by building — every project and every solved problem is 
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Anurag-1308/Anurag-1308/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
+  <img src="https://raw.githubusercontent.com/Anurag-1308/Anurag-1308/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation" />
 </div>
 
-<br/>
 
 ---
 
