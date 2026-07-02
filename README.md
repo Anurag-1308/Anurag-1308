@@ -164,18 +164,17 @@ I believe in learning by building — every project and every solved problem is 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anurag-1308&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&border_radius=10" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-1308&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&border_radius=10" width="49%"/>
+<img src="https://github-readme-stats-peach-rho-jhot71ik4o.vercel.app/api?username=Anurag-1308&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-1308&theme=tokyonight&hide_border=true" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-1308&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=10" width="60%"/>
+<img src="https://github-readme-stats-peach-rho-jhot71ik4o.vercel.app/api/top-langs/?username=Anurag-1308&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="60%"/>
 
 </div>
 
 <br/>
-
----
 
 ## 🏆 GitHub Trophies
 
